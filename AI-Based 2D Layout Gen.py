@@ -51,7 +51,7 @@ def get_layout_from_gemini(total_width, total_height, rooms):
     """
     
     # Gemini API interaction code remains the same
-    genai.configure(api_key="AIzaSyCPJOdCTe6sTPppjdwb3VHvfJcVj6mQbr4")
+    genai.configure(api_key="#Ur API Key here")
 
     generation_config = {
         "temperature": 1,
